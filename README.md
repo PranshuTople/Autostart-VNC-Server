@@ -14,5 +14,12 @@ So this Tutorial Assumes that you have...
   * Already installed VNC Server in the Raspberry Pi.
 
 ### Procedure:
+  * Clone the repository to your Raspberry Pi by running the following command in your Pi's terminal
+     
+     ```
+     git clone https://github.com/SaturnRobolabs/Autostart-VNC-Server
+     ```
+     
+  * Copy the ***"tightvnc.desktop"*** file to ***"home/pi/.config/autostart"*** directory in the Pi.
 
 UPDATES COMING SOON >>>
