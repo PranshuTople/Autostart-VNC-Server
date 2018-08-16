@@ -9,6 +9,6 @@ When you are new to ***Raspberry Pi***, but don't have enough resources like HDM
 
 ### Pre Requirements:
 
-### Procedure
+### Procedure:
 
 UPDATES COMING SOON >>>
