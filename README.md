@@ -8,6 +8,10 @@ When you are new to ***Raspberry Pi***, but don't have enough resources like HDM
 ## So here is how you can do it...
 
 ### Pre Requirements:
+So this Tutorial Assumes that you have...
+  * A Raspberry Pi running Raspbian OS.
+  * Already done the Headless Setup.
+  * Already installed VNC Server in the Raspberry Pi.
 
 ### Procedure:
 
